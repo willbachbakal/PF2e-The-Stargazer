@@ -1,6 +1,6 @@
 {
-  "id": "",
-  "title": "",
+  "id": "the-stargazer",
+  "title": "The Stargazer",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
@@ -12,26 +12,26 @@
     "": {
       "pf2e-homebrew": {
         "featTraits": {
-          "": ""
+          "stargazer": "Stargazer"
         },
         "spellTraits": {
-          "": ""
+          "stargazer": "Stargazer"
         }
       }
     }
   },
-  "description": "",
+  "description": "There is power to be obtained from the heavens. Using starlight to your advantage, you channel that same power to fuel your abilities and guide your path. With every new constellation, your understanding of the cosmos grows–as does your power over it.",
   "authors": [
     {
-      "name": "Teridax68",
+      "name": "The_Fox_Fellow",
       "flags": {}
     }
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "the-stargazer",
+      "label": "The Stargazer",
+      "path": "packs/the-stargazer",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://scribe.pf2.tools/v/BVWb2PO0-stargazer-wip-copy"
 }
