@@ -1,2 +1,1 @@
-# PF2e-Foundry-Template
-A template repository for implementing Pathfinder Second Edition content as a Foundry VTT module
+https://scribe.pf2.tools/v/BVWb2PO0-stargazer-wip-copy
